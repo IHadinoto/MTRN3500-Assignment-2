@@ -1,0 +1,5 @@
+﻿  GPS.cpp
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\GPS\GPS.cpp(157,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\GPS\GPS.cpp(158,9): warning C4018: '<': signed/unsigned mismatch
+  SMObject.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GPS.vcxproj -> C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\GPS\..\Executables\GPS.exe

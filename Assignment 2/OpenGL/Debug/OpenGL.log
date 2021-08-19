@@ -1,0 +1,34 @@
+﻿  main.cpp
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(16,21): error C2871: 'scos': a namespace with this name does not exist
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(102,13): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(102,10): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(148,4): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(148,13): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(152,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(152,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(153,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(153,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(155,13): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(155,10): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(156,13): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(156,10): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(178,13): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(178,10): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(238,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(238,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(242,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(242,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(246,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(246,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(250,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(250,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(254,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(254,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(258,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(258,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(314,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(314,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(317,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(317,11): error C3861: 'get': identifier not found
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(348,14): error C2653: 'Camera': is not a class or namespace name
+C:\Users\ianha\OneDrive\Documents\UNSW\Year 2 Semester 3\MTRN3500\Assignment 2\Assignment 2\OpenGL\main.cpp(348,11): error C3861: 'get': identifier not found
